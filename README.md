@@ -1,38 +1,40 @@
 # Hi, I'm Shivam 👋
 
-## 🚀 Web3 Learner & Builder (Solana Focus)
+## 🚀 Web3 Learner & Builder
 
-I am transitioning into the Solana ecosystem with a focus on:
-- ⚡ On-chain program development (Anchor)
-- 🏦 DeFi primitives & token infrastructure
-- 🔐 Secure smart contract design
-- 🧠 Systems thinking for Web3 products
+I explore Web3 systems with a growing focus on Solana.
 
-Currently documenting my structured Solana journey through:
-- Solana Playground (core concepts & experiments)
-- PDA & account model exploration
-- Token mint & SPL deep dives
-- DeFi architecture research
+My interests include:
+- On-chain program development
+- DeFi primitives & token infrastructure
+- Smart contract security
+- Systems thinking for decentralized products
+
+Recently, I’ve been diving deeper into Solana’s:
+- Accounts model
+- Program Derived Addresses (PDAs)
+- Anchor framework
+- Token mechanics
+
+I document my learning publicly and build small, structured projects as I grow.
 
 ---
 
 ## 🎯 2026 Goals
-- Build 2+ production-grade Solana programs
+- Become confident in writing secure on-chain programs
+- Participate in serious Web3 hackathons
 - Contribute to ecosystem bounties
-- Participate in major hackathons
-- Earn through building, not speculation
+- Build products that create real value
 
 ---
 
-## 📚 Current Focus
-Learning deeply:
-- Solana accounts model
-- PDAs
-- CPI
-- Anchor framework
-- Token mechanics
+## 📚 Current Direction
+Exploring:
+- Solana development
+- DeFi system design
+- Practical smart contract architecture
 
-Building publicly and improving daily.
+Learning consistently. Building step by step.
 
 ---
 
