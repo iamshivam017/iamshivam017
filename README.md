@@ -1,41 +1,64 @@
 # Hi, I'm Shivam 👋
 
-## 🚀 Web3 Learner & Builder
+## 🚀 Web3 Builder & Hackathon Enthusiast
 
-I am transitioning into the Solana ecosystem with a focus on:
-- ⚡ On-chain program development (Anchor)
-- 🏦 DeFi primitives & token infrastructure
-- 🔐 Secure smart contract design
-- 🧠 Systems thinking for Web3 products
+Passionate about building at the intersection of Web3, AI, and emerging technologies.
 
-Currently documenting my structured Solana journey through:
-- Solana Playground (core concepts & experiments)
-- PDA & account model exploration
-- Token mint & SPL deep dives
-- DeFi architecture research
+Currently exploring:
+
+* ⛓️ Blockchain & decentralized systems
+* 🌐 Web3 application development
+* 🤖 AI-powered products & agents
+* 🏆 Hackathons, open-source, and developer communities
+* 🔐 Smart contracts & on-chain infrastructure
+
+I enjoy turning ideas into real products, experimenting with new technologies, and learning by building.
 
 ---
 
 ## 🎯 2026 Goals
-- Build 2+ production-grade Solana programs
-- Contribute to ecosystem bounties
-- Participate in major hackathons
-- Earn through building, not speculation
+
+* Build impactful Web3 and AI projects
+* Win and contribute in major hackathons
+* Contribute to open-source ecosystems
+* Grow as a blockchain and software developer
+* Create products that solve real-world problems
 
 ---
 
-## 📚 Current Focus
-Learning deeply:
-- Solana accounts model
-- PDAs
-- CPI
-- Anchor framework
-- Token mechanics
+## 🛠️ Current Focus
 
-Building publicly and improving daily.
+Learning and building with:
+
+* Blockchain fundamentals
+* Smart contracts
+* Web3 infrastructure
+* AI Agents & Automation
+* Cloud & Developer Tools
+
+---
+
+## 🏆 Hackathons & Community
+
+Actively participating in:
+
+* Web3 & Blockchain Hackathons
+* AI & Agentic AI Competitions
+* Open-source Programs
+* Developer Events & Buildathons
+
+Always open to collaborating with builders, founders, and developers.
+
+---
+
+## 📈 Building in Public
+
+Sharing my journey, projects, learnings, and hackathon experiences while continuously improving as a builder.
 
 ---
 
 ## 🔗 Connect
-X: https://x.com/shivam_aarya017  
+
+X: https://x.com/shivam_aarya017
+
 Superteam Earn: https://superteam.fun/earn/t/shivam017
